@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string-array name="operacoes">
+        <item>Somar</item>
+        <item>Subtrair</item>
+        <item>Multiplicar</item>
+        <item>Dividir</item>
+    </string-array>
+</resources>

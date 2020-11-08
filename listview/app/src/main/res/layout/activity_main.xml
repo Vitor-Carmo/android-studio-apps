@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3F3F3"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:breakStrategy="high_quality"
+        android:text="Lista de Carros"
+        android:textAlignment="center"
+        android:textColor="#323232"
+        android:textSize="30dp"
+        android:visibility="visible" />
+
+    <ListView
+        android:id="@+id/lsvcarros"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="15dp"
+        android:background="#FFFFFF"
+        android:textAlignment="center" />
+
+
+</LinearLayout>

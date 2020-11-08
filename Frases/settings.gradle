@@ -1,0 +1,2 @@
+rootProject.name='Frases'
+include ':app'

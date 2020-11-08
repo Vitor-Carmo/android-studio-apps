@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="frutas">
+        <item>Nenhum</item>
+        <item>Abacate</item>
+        <item>Abacaxi</item>
+        <item>Amora</item>
+        <item>Banana</item>
+        <item>Damasco</item>
+        <item>Jabuticaba</item>
+        <item>Laranja</item>
+        <item>Maça</item>
+        <item>Melancia</item>
+        <item>Morango</item>
+        <item>Pera</item>
+        <item>Uva</item>
+    </string-array>
+</resources>
